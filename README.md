@@ -8,6 +8,10 @@ dependÊncias:
 $ npm install express nodemon mongoose
 
 ou apenas npm install
+configure o .env.example mudando para .env e adicionando dentro do arquivo:
+
+DB_USER =netto
+DB_PASSWORD =hQ6WPmeWVWsKGjZv
 
 ``
 
